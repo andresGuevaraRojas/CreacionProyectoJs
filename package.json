@@ -1,0 +1,11 @@
+{
+  "name": "creacionproyectosjs",
+  "version": "1.0.0",
+  "description": "Se aprende a crear un proyecto en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}

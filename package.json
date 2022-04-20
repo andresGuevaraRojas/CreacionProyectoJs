@@ -1,5 +1,6 @@
 {
   "name": "creacionproyectosjs",
+  "type": "commonjs",
   "version": "1.0.0",
   "description": "Se aprende a crear un proyecto en js",
   "main": "index.js",
@@ -7,5 +8,8 @@
     "test": "test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }

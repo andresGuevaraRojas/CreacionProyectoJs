@@ -5,7 +5,8 @@
   "description": "Se aprende a crear un proyecto en js",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
